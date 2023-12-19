@@ -1,0 +1,19 @@
+h1 {font-size: 24px;}
+p {font-size: 16px;}
+
+
+.section1{
+    background-color: blueviolet;
+    height: 100px;
+    width: 350px;
+    color:black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.section2{
+    background-color: blue;
+    height: 200px;
+    width: 150px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
